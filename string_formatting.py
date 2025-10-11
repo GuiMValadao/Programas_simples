@@ -2,7 +2,8 @@
 def print_formatted(number):
     """
         Takes an integer number and generates
-        a table of numbers on base 10, 8, 16 and 2.
+        a table of numbers on base 10, 8, 16 and 2 without
+        using python built-in transformations.        
     """
     binary = ''
     num_bin = number
