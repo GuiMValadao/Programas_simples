@@ -1,6 +1,6 @@
 # **Simple programs written in Python**
 
-Some pass-times or simple functionality programs written as self-study on programing with Python. The programs are written in portuguese-BR.
+Some pastimes or simple functionality programs written as self-study on programing with Python. The programs are written in portuguese-BR.
 
 They include:
 * Games:
