@@ -4,7 +4,7 @@ Some pass-times or simple functionality programs written as self-study on progra
 
 They include:
 * Games:
-    * Guessing game - https://github.com/GuiMValadao/Programas_simples/blob/main/adivinha1.py
+    * Guessing game - <https://github.com/GuiMValadao/Programas_simples/blob/main/adivinha1.py>
     * Guessing game, but applying functional programing - https://github.com/GuiMValadao/Programas_simples/blob/main/adivinha2.py
     * Dice game - https://github.com/GuiMValadao/Programas_simples/blob/main/jogardados.py
     * Tic-Tac-Toe - https://github.com/GuiMValadao/Programas_simples/blob/main/jogo_da_velha.py
